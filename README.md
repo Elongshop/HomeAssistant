@@ -26,8 +26,8 @@
 [https://github.com/yuangezhizao/HomeAssistant](https://github.com/yuangezhizao/HomeAssistant)
 
 ## 0x06.作品体验二维码（如已上线）
-> 注：开发版本供审核
-![开发版本](https://i1.yuangezhizao.cn/Win-10/mp-dev.jpg!webp)
+> 注：体验版本供审核
+![体验版本](https://i1.yuangezhizao.cn/Win-10/mp-dev.jpg!webp)
 
 ## 0x07.团队/作者简介
 [远哥制造](https://www.yuangezhizao.cn)
