@@ -1,6 +1,8 @@
 # HomeAssistant
 【小程序云开发挑战赛】HomeAssistant
 
+[部署教程](https://github.com/yuangezhizao/HomeAssistant/blob/master/deployment.md)
+
 ## 0x00.应用场景
 ~~比赛之初的原意是想做一个 HomeAssistant 的小程序版本，因为 HomeAssistant 官方只有 APP 和网页版，但是限于社畜 996 过忙无法实现全部功能，因此并未基于 HomeAssistant 入手，较为遗憾……而是从 IOT 物联网开发平台直接拉取原始数据。~~
 通过微信小程序查看家中传感器数据并控制各种开关
@@ -29,3 +31,6 @@
 
 ## 0x07.团队/作者简介
 [远哥制造](https://www.yuangezhizao.cn)
+
+## LICENSE
+Apache
