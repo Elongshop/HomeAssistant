@@ -2,6 +2,7 @@
 【小程序云开发挑战赛】HomeAssistant
 
 [部署教程](https://github.com/yuangezhizao/HomeAssistant/blob/master/deployment.md)
+[更新日志](https://github.com/yuangezhizao/HomeAssistant/blob/master/changelog.md)
 
 ## 0x00.应用场景
 ~~比赛之初的原意是想做一个 HomeAssistant 的小程序版本，因为 HomeAssistant 官方只有 APP 和网页版，但是限于社畜 996 过忙无法实现全部功能，因此并未基于 HomeAssistant 入手，较为遗憾……而是从 IOT 物联网开发平台直接拉取原始数据。~~
